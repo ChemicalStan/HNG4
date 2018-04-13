@@ -20,7 +20,7 @@
         Hotels.ng Internship vol.4
         </p>
         </div>
-<p class="writeup">DATE: <?php echo date('d-m-y h:ma');?> </p>
+<p class="writeup">DATE: <?php date_default_timezone_set('Africa/Lagos'); echo date('d-m-y h:ma');?> </p>
     </div>
 </body>
 </html>
