@@ -1,0 +1,171 @@
+.container {
+background:URL('img/brown_hotel_wallpaper_by_fantasystock.jpg');
+position: relative;
+width: 1088.82px;
+height: 616.91px;
+
+/*background: #FFFFFF;*/
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navbar{
+
+position: relative;
+width: 1089px;
+height: 62px;
+
+background: #171313;
+}
+.group{
+position: absolute;
+width: 174.2px;
+height: 46px;
+left: 257px;
+top: 8px;
+}
+
+#about{
+
+
+position: absolute;
+left: 81.48%;
+right: -81.48%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #FFFCFC;
+/*border: 1px solid #FFF7F7;*/
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+}
+
+#home{
+
+position: absolute;
+left: -18.52%;
+right: 18.52%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #FFFCFC;
+/*border: 1px solid #FFF7F7;*/
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+}
+
+#contact{
+
+position: absolute;
+left: 195.06%;
+right: -195.06%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #FFFCFC;
+/*border: 1px solid #FFF7F7;*/
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        text-decoration: none;
+
+}
+.frame{
+position: absolute;
+width: 966px;
+height: 134px;
+left: 46.82px;
+top: 190.66px;
+
+background: rgba(242, 153, 74, 0.6);
+transform: rotate(-10deg);
+}
+.text{
+position: absolute;
+width: 902px;
+height: 108px;
+left: 30.99px;
+top: -40.5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 64px;
+text-align: center;
+
+color: #000000;
+/*transform: rotate(-10deg);*/
+}
+
+.vector{
+position: absolute;
+width: 329.9px;
+height: 191.5px;
+left: 296.86px;
+top: 366.86px;
+
+border: 1px solid #000000;
+/*transform: rotate(-19.55deg);*/
+}
+.writeup{
+
+position: absolute;
+width: 498px;
+height: 66px;
+left: 274.82px;
+top: 406.91px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+text-align: center;
+
+color: #F7F2F2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
